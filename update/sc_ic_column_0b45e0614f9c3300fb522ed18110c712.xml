@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_column">
+    <sc_ic_column action="INSERT_OR_UPDATE">
+        <index>0</index>
+        <name>Left column</name>
+        <sc_ic_section display_value="Section 1">cb45e0614f9c3300fb522ed18110c711</sc_ic_section>
+        <sys_class_name>sc_ic_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-19 19:36:50</sys_created_on>
+        <sys_id>0b45e0614f9c3300fb522ed18110c712</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Left column</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_ic_column_0b45e0614f9c3300fb522ed18110c712</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-19 19:36:50</sys_updated_on>
+    </sc_ic_column>
+</record_update>
